@@ -1,4 +1,8 @@
 # homework3
 Intro to Javascript - week 3
 
-Working with starter code to create a randomized password generator that displays password in an alert on the page.
+Developed using HTML5, CSS3, and basic Javascript to create an interactive, randomized password generator based on user input.
+
+# Links:
+github repo: https://github.com/ellackramer/homework3/
+deployed application: https://ellackramer.github.io/homework3/
